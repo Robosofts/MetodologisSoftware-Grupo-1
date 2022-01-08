@@ -1,0 +1,6 @@
+Nombre	RUC	Numero de Telefono	Direccion	Producto
+textil amaguaña	1235434545	0954837458	amaguaña,bario2	chompas 
+Nombre	RUC	Numero de Telefono	Direccion	Producto
+textil amaguaña	1235434545	0954837458	amaguaña,bario2	chompas 
+Nombre	RUC	Numero de Telefono	Direccion	Producto
+elsia s	sadfasef	123143	123433	23w3423

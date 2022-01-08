@@ -1,0 +1,11 @@
+C:\Users\moises\Desktop\Met.Des.Soft\proyecto\WindowsFormsAppProyectoMDS1\WindowsFormsAppProyectoMDS1\bin\Debug\WindowsFormsAppProyectoMDS1.exe.config
+C:\Users\moises\Desktop\Met.Des.Soft\proyecto\WindowsFormsAppProyectoMDS1\WindowsFormsAppProyectoMDS1\bin\Debug\WindowsFormsAppProyectoMDS1.exe
+C:\Users\moises\Desktop\Met.Des.Soft\proyecto\WindowsFormsAppProyectoMDS1\WindowsFormsAppProyectoMDS1\bin\Debug\WindowsFormsAppProyectoMDS1.pdb
+C:\Users\moises\Desktop\Met.Des.Soft\proyecto\WindowsFormsAppProyectoMDS1\WindowsFormsAppProyectoMDS1\obj\Debug\WindowsFormsAppProyectoMDS1.csproj.AssemblyReference.cache
+C:\Users\moises\Desktop\Met.Des.Soft\proyecto\WindowsFormsAppProyectoMDS1\WindowsFormsAppProyectoMDS1\obj\Debug\WindowsFormsAppProyectoMDS1.csproj.SuggestedBindingRedirects.cache
+C:\Users\moises\Desktop\Met.Des.Soft\proyecto\WindowsFormsAppProyectoMDS1\WindowsFormsAppProyectoMDS1\obj\Debug\WindowsFormsAppProyectoMDS1.Inicio.resources
+C:\Users\moises\Desktop\Met.Des.Soft\proyecto\WindowsFormsAppProyectoMDS1\WindowsFormsAppProyectoMDS1\obj\Debug\WindowsFormsAppProyectoMDS1.Properties.Resources.resources
+C:\Users\moises\Desktop\Met.Des.Soft\proyecto\WindowsFormsAppProyectoMDS1\WindowsFormsAppProyectoMDS1\obj\Debug\WindowsFormsAppProyectoMDS1.csproj.GenerateResource.cache
+C:\Users\moises\Desktop\Met.Des.Soft\proyecto\WindowsFormsAppProyectoMDS1\WindowsFormsAppProyectoMDS1\obj\Debug\WindowsFormsAppProyectoMDS1.csproj.CoreCompileInputs.cache
+C:\Users\moises\Desktop\Met.Des.Soft\proyecto\WindowsFormsAppProyectoMDS1\WindowsFormsAppProyectoMDS1\obj\Debug\WindowsFormsAppProyectoMDS1.exe
+C:\Users\moises\Desktop\Met.Des.Soft\proyecto\WindowsFormsAppProyectoMDS1\WindowsFormsAppProyectoMDS1\obj\Debug\WindowsFormsAppProyectoMDS1.pdb
