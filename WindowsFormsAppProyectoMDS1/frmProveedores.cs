@@ -41,7 +41,7 @@ namespace WindowsFormsAppProyectoMDS1
 
         private void txtBRUC_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if ((e.KeyChar >= 32 && e.KeyChar <= 47) || (e.KeyChar >= 58 && e.KeyChar <= 255))
+            if ((e.KeyChar >= 32 && e.KeyChar <= 47) || (e.KeyChar >= 58 && e.KeyChar <= 255) )
             {
                 MessageBox.Show("Solo numeros", "ALERTA", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                 e.Handled = true;

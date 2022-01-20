@@ -20,7 +20,7 @@ namespace WindowsFormsAppProyectoMDS1
             try
             {
 
-                escribir.WriteLine("Nombre: " + txtBnombre.Text + "\t" + "RUC: " + txtBRUC.Text + "\t" + "Num.Tel: " + txtBNnTe.Text + "\t" + "Direccion: " + txtBDireccion.Text + "\t" + "Producto: " + txtBProducto.Text);
+                escribir.WriteLine("Nombre: " + nombreP() + "\t" + "RUC: " + txtBRUC.Text + "\t" + "Num.Tel: " + txtBNnTe.Text + "\t" + "Direccion: " + txtBDireccion.Text + "\t" + "Producto: " + txtBProducto.Text);
             }
             catch
             {
@@ -30,8 +30,8 @@ namespace WindowsFormsAppProyectoMDS1
         }
 
         
-        //funciones para 
-        public static string nombreP()
+        //funciones para las pruebas 
+        public static string nombreP(TextBox txtBnombre)
         {
             return "cualquier nombre";
         }
