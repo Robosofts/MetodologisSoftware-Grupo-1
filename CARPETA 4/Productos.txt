@@ -1,0 +1,6 @@
+Codigo: P000	Tipo: Pantalon	Descripcion: Talla M, blanco, tiro alto	Precio: $10	
+Codigo: P002	Tipo: Blusa	Descripcion: Color Beige, talla s	Precio: $7	
+Codigo: P000	Tipo: Pantalon	Descripcion: Color azul	Precio: $12	
+Codigo: B015	Tipo: Blusa	Descripcion: Calor rosado.	Precio: $15	
+Codigo: V016	Tipo: Vestido	Descripcion: Talla S.	Precio: $30	
+Codigo: P018	Tipo: Pantalon	Descripcion: Jean	Precio: $20	

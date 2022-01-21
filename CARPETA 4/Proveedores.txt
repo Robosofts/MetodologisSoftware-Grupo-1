@@ -1,0 +1,7 @@
+
+
+Nombre: Indutexma	RUC: 1768152560001	Num.Tel: 0999999999	Direccion: Quito	Producto: Pantalones
+Nombre: TexCuenca	RUC: 1768152560002	Num.Tel: 0999999998	Direccion: Cuenca	Producto: Vestidos
+Nombre: TexQuil	RUC: 1768152560003	Num.Tel: 0999999997	Direccion: Guayaquil	Producto: Camisetas
+Nombre: TexCiudadBlanca	RUC: 1768152560004	Num.Tel: 0999999996	Direccion: Ibarra	Producto: Blusas
+Nombre: TexC	RUC: 1777000000000	Num.Tel: 0988888888	Direccion: Cuenca	Producto: Vestidos
